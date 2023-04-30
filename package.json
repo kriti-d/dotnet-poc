@@ -4,7 +4,7 @@
   "description": "![logo](https://res.cloudinary.com/snyk/image/upload/v1468845259/logo/snyk-dog.svg) ## Snyk: .Net POC ***",
   "main": "app.js",
   "dependencies": {
-    "xml2js": "^0.4.17",
+    "xml2js": "^0.5.0",
     "zip": "^1.2.0"
   },
   "devDependencies": {},
